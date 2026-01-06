@@ -3,13 +3,12 @@
 Projemiz yapay zekanın gücünü kullanarak League of Legends oyununun maçlarını analiz etmeyi amaçlayan bir projedir.
 
 ## 🚀 Proje Hakkında
-Bu proje, Google'ın en gelişmiş dil modellerinden biri olan Gemini'yi kullanarak [Örn: metin analizi, içerik üretimi, kod asistanlığı] gibi işlevleri yerine getirir. 
+Bu proje, Google'ın en gelişmiş dil modellerinden biri olan Gemini'yi kullanarak League of Legends oyununun maçlarını analiz etmeyi amaçlayan bir projedir. 
 
 ## ✨ Temel Özellikler
 * **Model:** Gemini 3 Pro / Flash
-* **Prompt Yapısı:** [Örn: Zero-shot, Few-shot veya Chain of Thought] teknikleri kullanılmıştır.
-* **Fonksiyonellik:** [Örn: PDF analizi, Görüntü işleme, JSON çıktı üretme vb.]
-* **Hız ve Verimlilik:** [Düşük gecikme süresi veya yüksek doğruluk oranı] odaklı optimizasyon.
+* **Fonksiyonellik:** Yapay zeka ile maç veya oyuncu analizi
+* **Hız ve Verimlilik:** Düşük gecikme süresi veya yüksek doğruluk oranı odaklı optimizasyon.
 
 ## 🛠 Kullanılan Teknolojiler
 * [Google AI Studio](https://aistudio.google.com/)
@@ -29,7 +28,7 @@ Bu projeyi kendi ortamınızda çalıştırmak için şu adımları izleyin:
     GOOGLE_API_KEY=YOUR_API_KEY_HERE
     ```
 4.  **Çalıştırın:**
-    **python main.py** kodunu terminale yazarak çalıştırabilirsiniz
+    Projeyi **Google AI Studio** üzerinden açlıştırın
 
 ## 🧠 Sistem Talimatları (System Instructions)
 AI'nın çalışma mantığı şu temel prensiplere dayanmaktadır:
