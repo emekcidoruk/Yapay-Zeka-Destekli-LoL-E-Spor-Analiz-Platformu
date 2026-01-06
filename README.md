@@ -50,15 +50,11 @@ Furkan Boynueğri
 
 
 2.  **Draft Analizi**
-   <img width="1381" height="652" alt="Ekran görüntüsü 2026-01-06 184022" src="https://github.com/user-attachments/assets/eccea4f5-87cb-4aa1-8f47-83a8e69e5cc6" />
+   <img width="1388" height="622" alt="Ekran görüntüsü 2026-01-06 185304" src="https://github.com/user-attachments/assets/393ee1b7-6de9-4913-9c38-1f1282240a5c" />
 
-   <img width="1260" height="744" alt="Ekran görüntüsü 2026-01-06 184130" src="https://github.com/user-attachments/assets/ce0e220e-a5c9-4717-b485-9941395229c6" />
-
+   <img width="1291" height="842" alt="Ekran görüntüsü 2026-01-06 185319" src="https://github.com/user-attachments/assets/165c3fab-123e-4ab6-a8ed-036938436135" />
 
 3.  **AI Analist**
-   <img width="1321" height="773" alt="Ekran görüntüsü 2026-01-06 184153" src="https://github.com/user-attachments/assets/f7a639b2-a036-43c0-8b36-c7bc37bce6c1" />
+   <img width="1313" height="749" alt="Ekran görüntüsü 2026-01-06 185505" src="https://github.com/user-attachments/assets/4b869e8a-9d1d-4302-a4c9-26595afb1a36" />
 
-
-
-   
 
