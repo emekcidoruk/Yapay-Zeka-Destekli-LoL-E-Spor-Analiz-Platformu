@@ -1,12 +1,12 @@
-# [Proje Adı Buraya Gelecek]
+# YAPAY ZEKA DESTEKLİ E-SPOR ANALİZ PLATFORMU
 
-Google AI Studio (Gemini API) kullanılarak geliştirilmiş, [Projenin amacını buraya 1 cümleyle yazın] amaçlayan bir yapay zeka projesidir.
+Projemiz yapay zekanın gücünü kullanarak League of Legends oyununun maçlarını analiz etmeyi amaçlayan bir projedir.
 
 ## 🚀 Proje Hakkında
-Bu proje, Google'ın en gelişmiş dil modellerinden biri olan Gemini'yi kullanarak [Örn: metin analizi, içerik üretimi, kod asistanlığı] gibi işlevleri yerine getirir. AI Studio üzerinde yapılandırılmış özel bir "System Instruction" ve prompt mühendisliği tekniklerini içerir.
+Bu proje, Google'ın en gelişmiş dil modellerinden biri olan Gemini'yi kullanarak [Örn: metin analizi, içerik üretimi, kod asistanlığı] gibi işlevleri yerine getirir. 
 
 ## ✨ Temel Özellikler
-* **Model:** Gemini 1.5 Pro / Flash (Hangisini kullandıysanız yazın)
+* **Model:** Gemini 3 Pro / Flash
 * **Prompt Yapısı:** [Örn: Zero-shot, Few-shot veya Chain of Thought] teknikleri kullanılmıştır.
 * **Fonksiyonellik:** [Örn: PDF analizi, Görüntü işleme, JSON çıktı üretme vb.]
 * **Hız ve Verimlilik:** [Düşük gecikme süresi veya yüksek doğruluk oranı] odaklı optimizasyon.
@@ -14,7 +14,7 @@ Bu proje, Google'ın en gelişmiş dil modellerinden biri olan Gemini'yi kullana
 ## 🛠 Kullanılan Teknolojiler
 * [Google AI Studio](https://aistudio.google.com/)
 * Gemini API
-* [Varsa ek diller: Python, JavaScript, vb.]
+* Python, TypeScript
 
 ## 📋 Kurulum ve Kullanım
 Bu projeyi kendi ortamınızda çalıştırmak için şu adımları izleyin:
@@ -33,10 +33,10 @@ Bu projeyi kendi ortamınızda çalıştırmak için şu adımları izleyin:
 
 ## 🧠 Sistem Talimatları (System Instructions)
 AI'nın çalışma mantığı şu temel prensiplere dayanmaktadır:
-> "[Projenizdeki ana sistem talimatından bir özet buraya ekleyebilirsiniz]"
+> Takım seçmi yaptıktan sonra otomatik olarak analiz yapar.
+> Aİ analiz kısmında ise takım seçimi veya oyuncu seçimi yaparak daha spesifik  sorular sorabilirsiniz
+> Draft analiz bölümünde ise 2 tane takım oluşturup bunları yapay zeka aracılığıyla analizini isteyebilirsiniz
 
-## 🤝 Katkıda Bulunma
-Katkı sağlamak isterseniz lütfen önce bir "Issue" açın veya doğrudan "Pull Request" gönderin.
-
-## 📄 Lisans
-Bu proje [MIT/Apache 2.0] lisansı altında korunmaktadır.
+## 📄 Projeyi Yapanlar
+> Doruk Emekçi
+> Furkan Boynueğri
