@@ -28,7 +28,7 @@ Bu projeyi kendi ortamınızda çalıştırmak için şu adımları izleyin:
     GOOGLE_API_KEY=YOUR_API_KEY_HERE
     ```
 4.  **Çalıştırın:**
-    Projeyi **Google AI Studio** üzerinden açlıştırın
+    Projeyi **Google AI Studio** üzerinden çalıştırın
 
 ## 🧠 Sistem Talimatları (System Instructions)
 AI'nın çalışma mantığı şu temel prensiplere dayanmaktadır:
