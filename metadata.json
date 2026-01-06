@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI: LoL E-Sports Analyst",
+  "description": "A cutting-edge League of Legends e-sports analysis platform powered by Gemini AI. Provides match breakdowns, champion synergy analysis, and live performance scouting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
