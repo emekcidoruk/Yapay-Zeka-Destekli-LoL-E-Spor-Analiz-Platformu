@@ -44,7 +44,7 @@ Furkan Boynueğri
 ## 📸 Proje Fotoğrafları
 
 1.  **Maç Paneli**
-   <img width="1871" height="747" alt="Ekran görüntüsü 2026-01-06 183853" src="https://github.com/user-attachments/assets/f688228b-8488-4910-9dc6-9853dba05ec2" />
+   <img width="1506" height="746" alt="Ekran görüntüsü 2026-01-06 183927" src="https://github.com/user-attachments/assets/62e81cac-b198-4ad6-a929-589e4ff40f66" />
 
    <img width="1488" height="829" alt="Ekran görüntüsü 2026-01-06 183910" src="https://github.com/user-attachments/assets/f5ab757d-b07c-42e9-b29f-c70f45d15edf" />
 
