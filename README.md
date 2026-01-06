@@ -29,7 +29,7 @@ Bu projeyi kendi ortamınızda çalıştırmak için şu adımları izleyin:
     GOOGLE_API_KEY=YOUR_API_KEY_HERE
     ```
 4.  **Çalıştırın:**
-    [Çalıştırma komutunu buraya yazın, örn: python main.py]
+    **python main.py** kodunu terminale yazarak çalıştırabilirsiniz
 
 ## 🧠 Sistem Talimatları (System Instructions)
 AI'nın çalışma mantığı şu temel prensiplere dayanmaktadır:
