@@ -40,3 +40,22 @@ AI'nın çalışma mantığı şu temel prensiplere dayanmaktadır:
 Doruk Emekçi
 
 Furkan Boynueğri
+
+## 📸 Proje Fotoğrafları
+1.  **Maç Paneli**
+   <img width="1871" height="747" alt="Ekran görüntüsü 2026-01-06 183853" src="https://github.com/user-attachments/assets/f688228b-8488-4910-9dc6-9853dba05ec2" />
+
+   <img width="1488" height="829" alt="Ekran görüntüsü 2026-01-06 183910" src="https://github.com/user-attachments/assets/f5ab757d-b07c-42e9-b29f-c70f45d15edf" />
+
+2.  **Draft Analizi**
+   <img width="1381" height="652" alt="Ekran görüntüsü 2026-01-06 184022" src="https://github.com/user-attachments/assets/eccea4f5-87cb-4aa1-8f47-83a8e69e5cc6" />
+
+   <img width="1260" height="744" alt="Ekran görüntüsü 2026-01-06 184130" src="https://github.com/user-attachments/assets/ce0e220e-a5c9-4717-b485-9941395229c6" />
+
+3.  **AI Analist**
+   <img width="1321" height="773" alt="Ekran görüntüsü 2026-01-06 184153" src="https://github.com/user-attachments/assets/f7a639b2-a036-43c0-8b36-c7bc37bce6c1" />
+
+
+
+   
+
