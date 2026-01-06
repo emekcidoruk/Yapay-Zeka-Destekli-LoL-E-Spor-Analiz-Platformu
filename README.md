@@ -38,5 +38,5 @@ AI'nın çalışma mantığı şu temel prensiplere dayanmaktadır:
 > Draft analiz bölümünde ise 2 tane takım oluşturup bunları yapay zeka aracılığıyla analizini isteyebilirsiniz
 
 ## 📄 Projeyi Yapanlar
-> Doruk Emekçi
-> Furkan Boynueğri
+Doruk Emekçi
+Furkan Boynueğri
