@@ -39,4 +39,5 @@ AI'nın çalışma mantığı şu temel prensiplere dayanmaktadır:
 
 ## 📄 Projeyi Yapanlar
 Doruk Emekçi
+
 Furkan Boynueğri
